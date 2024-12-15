@@ -1,0 +1,5 @@
+cd client
+npx lint-staged
+
+cd ../api
+npx lint-staged
